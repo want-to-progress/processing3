@@ -1,2 +1,3 @@
 # processing3
- some_work_using_processing
+ some work using processing  
+ including some knowledgement about processing3 and some simple application
